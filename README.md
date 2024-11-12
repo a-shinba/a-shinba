@@ -4,7 +4,7 @@
 ❤️‍🔥 GitHub  
 ❤️‍🔥 Microsoft Azure  
 ❤️‍🔥 DevOps  
-❤️‍🔥 Developer Productivity
+❤️‍🔥 Developer Productivity  
 🗒 I am officially accredited by GitHub in GitHub Copilot and GitHub Admin training.
 
 Organizer of Alternative Architecture Dojo, `#AADOJO`  
