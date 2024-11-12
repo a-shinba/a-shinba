@@ -4,6 +4,7 @@
 ❤️‍🔥 GitHub  
 ❤️‍🔥 Microsoft Azure  
 ❤️‍🔥 DevOps  
+🗃 I am officially accredited by GitHub in GitHub Copilot and GitHub Admin training.
 
 ![AZ-305](images2/AZ-305.png)
 ![SC-100](images2/SC-100.png)
