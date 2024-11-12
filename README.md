@@ -8,12 +8,11 @@
 　🔥 Developer Productivity  
 
 🎓 **Official GitHub Accreditations and Certifications +α**  
-  - GitHub-accredited in GitHub Copilot and Admin
-  - Certified in GitHub Foundations, Actions, Advanced Security, and Copilot
-  - Scrum Master (Certified)
- 
+　- GitHub-accredited in Copilot and Admin  
+　- Certified in GitHub Foundations, Actions, Advanced Security, and Copilot  
+　- Scrum Master (Certified)
 
-**Organizer Roles**  
+**Events**  
 　🚀 Organizer of **Alternative Architecture Dojo**, `#AADOJO`  
 　🚀 Organizer of **GitHub Dockyard**, `#GitHubDockyard`
 
