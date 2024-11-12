@@ -7,8 +7,9 @@
 　🔥 DevOps  
 　🔥 Developer Productivity  
 
-🗒 **Accreditations**  
-　I am officially accredited by GitHub in GitHub Copilot and GitHub Admin training.
+🎓 **Official GitHub Accreditations and Certifications**  
+　- GitHub-accredited in GitHub Copilot and Admin  
+　- Certified in GitHub Foundations, Actions, Advanced Security, and Copilot
 
 **Organizer Roles**  
 　🚀 Organizer of **Alternative Architecture Dojo**, `#AADOJO`  
