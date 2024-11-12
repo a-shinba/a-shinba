@@ -2,7 +2,7 @@
 
 ![AZ-305](images2/AZ-305.png)
 ![SC-100](images2/SC-100.png)
-![CSM](images2/CSM.png)
+![CSM](images2/CSM.png)  
 ![github-actions](images2/github-actions.png)
 ![github-administration](images2/github-administration.png)
 ![github-advanced-security](images2/github-advanced-security.png)
