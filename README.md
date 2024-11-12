@@ -12,6 +12,9 @@ Organizer of GitHub dockyard, `#GitHubDockyard`
 
 Lead editor for tech blog: [AADOJO](https://aadojo.alterbooth.com/)  
 
+X(Twitter): [a-shinba](https://x.com/shinbaz)  
+LinkedIn: [Check!](https://www.linkedin.com/in/akitaka-shinba-b627aa52/)  
+
 ![AZ-305](images2/AZ-305.png)
 ![SC-100](images2/SC-100.png)
 ![CSM](images2/CSM.png)  
