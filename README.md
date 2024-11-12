@@ -1,5 +1,5 @@
 ## Hi there, I'm a-shinba from Japan!! 👋
-### Call me Aki / Shinba☺️
+### Call me Aki or Shinba☺️
 
 ❤️‍🔥 GitHub  
 ❤️‍🔥 Microsoft Azure  
