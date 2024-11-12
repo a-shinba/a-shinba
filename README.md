@@ -7,9 +7,11 @@
 　🔥 DevOps  
 　🔥 Developer Productivity  
 
-🎓 **Official GitHub Accreditations and Certifications**  
-　- GitHub-accredited in GitHub Copilot and Admin  
-　- Certified in GitHub Foundations, Actions, Advanced Security, and Copilot
+🎓 **Official GitHub Accreditations and Certifications +α**  
+  - GitHub-accredited in GitHub Copilot and Admin
+  - Certified in GitHub Foundations, Actions, Advanced Security, and Copilot
+  - Scrum Master (Certified)
+ 
 
 **Organizer Roles**  
 　🚀 Organizer of **Alternative Architecture Dojo**, `#AADOJO`  
