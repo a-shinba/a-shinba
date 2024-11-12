@@ -22,7 +22,7 @@
 　🐦 X (Twitter): [a-shinba](https://x.com/shinbaz)  
 　🔗 LinkedIn: [Check!](https://www.linkedin.com/in/akitaka-shinba-b627aa52/)
 
-💬**Feel free to ask me anything about using GitHub and GitHub Copilot!**🚀💻✨
+💬 **Feel free to ask me anything about using GitHub and GitHub Copilot!** 🚀💻✨
 
 ---  
 
