@@ -1,19 +1,27 @@
 ## Hi there, I'm a-shinba from Japan!! 👋
-### Call me Aki or Shinba☺️
+### Call me Aki or Shinba ☺️
 
-❤️‍🔥 GitHub  
-❤️‍🔥 Microsoft Azure  
-❤️‍🔥 DevOps  
-❤️‍🔥 Developer Productivity  
-🗒 I am officially accredited by GitHub in GitHub Copilot and GitHub Admin training.
+🌟 **Areas of Expertise**  
+　🔥 GitHub  
+　🔥 Microsoft Azure  
+　🔥 DevOps  
+　🔥 Developer Productivity  
 
-Organizer of Alternative Architecture Dojo, `#AADOJO`  
-Organizer of GitHub dockyard, `#GitHubDockyard`
+🗒 **Accreditations**  
+　I am officially accredited by GitHub in GitHub Copilot and GitHub Admin training.
 
-Lead editor for tech blog: [AADOJO](https://aadojo.alterbooth.com/)  
+**Organizer Roles**  
+　🚀 Organizer of **Alternative Architecture Dojo**, `#AADOJO`  
+　🚀 Organizer of **GitHub Dockyard**, `#GitHubDockyard`
 
-X(Twitter): [a-shinba](https://x.com/shinbaz)  
-LinkedIn: [Check!](https://www.linkedin.com/in/akitaka-shinba-b627aa52/)  
+🖊 **Editorial Work**  
+　✍️ Lead editor for the tech blog: [AADOJO](https://aadojo.alterbooth.com/)
+
+🌐 **Social Media**  
+　🐦 X (Twitter): [a-shinba](https://x.com/shinbaz)  
+　🔗 LinkedIn: [Check!](https://www.linkedin.com/in/akitaka-shinba-b627aa52/)
+
+---  
 
 ![AZ-305](images2/AZ-305.png)
 ![SC-100](images2/SC-100.png)
