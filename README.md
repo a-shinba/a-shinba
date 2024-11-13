@@ -25,6 +25,9 @@
 
 💬 **Feel free to ask me anything about using GitHub and GitHub Copilot!** 🚀💻✨
 
+I also provide GitHub development experience programs and training for educational institutions and students. Feel free to reach out!  
+教育機関、学生向けのGitHubを使った開発体験プログラムや、トレーニングについても提供しています。お気軽にお声がけください！
+
 ---  
 
 ![AZ-305](images2/AZ-305.png)
