@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Todo & Time Tracker</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="app-container">
+        <header class="app-header">
+            <h1>Todo & Time Tracker</h1>
+            <p class="subtitle">効率的なタスク管理と時間管理</p>
+        </header>
+
+        <main class="main-content">
+            <!-- Time Tracker Section -->
+            <section class="time-tracker-section">
+                <div class="card">
+                    <h2>⏱️ タイムレコーダー</h2>
+                    <div class="timer-display">
+                        <span id="timer">00:00:00</span>
+                    </div>
+                    <div class="timer-controls">
+                        <button id="start-btn" class="btn btn-primary">開始</button>
+                        <button id="pause-btn" class="btn btn-secondary" disabled>一時停止</button>
+                        <button id="reset-btn" class="btn btn-danger">リセット</button>
+                    </div>
+                    <div class="time-records">
+                        <h3>記録</h3>
+                        <ul id="time-records-list"></ul>
+                    </div>
+                </div>
+            </section>
+
+            <!-- Todo List Section -->
+            <section class="todo-section">
+                <div class="card">
+                    <h2>📝 Todoリスト</h2>
+                    <div class="todo-input-container">
+                        <input type="text" id="todo-input" placeholder="新しいタスクを入力..." class="todo-input">
+                        <button id="add-todo-btn" class="btn btn-primary">追加</button>
+                    </div>
+                    <div class="todo-filters">
+                        <button class="filter-btn active" data-filter="all">すべて</button>
+                        <button class="filter-btn" data-filter="active">未完了</button>
+                        <button class="filter-btn" data-filter="completed">完了済み</button>
+                    </div>
+                    <ul id="todo-list" class="todo-list"></ul>
+                    <div class="todo-stats">
+                        <span id="todo-count">0 個のタスク</span>
+                        <button id="clear-completed" class="btn btn-ghost">完了済みを削除</button>
+                    </div>
+                </div>
+            </section>
+        </main>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>
