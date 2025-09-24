@@ -9,7 +9,7 @@
 
 🎓 **Official GitHub Accreditations and Certifications +α**  
 　- GitHub-accredited in Copilot and Admin  
-　- Certified in GitHub Foundations, Actions, Advanced Security, and Copilot  
+　- Certified in GitHub Foundations, Actions, Admin, Advanced Security, and Copilot  
 　- Scrum Master (Certified)
 
 **Events**  
