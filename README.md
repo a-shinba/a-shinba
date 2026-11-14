@@ -37,12 +37,12 @@ I provide GitHub-based development experience programs and training for educatio
 ### GitHub
 <table>
   <tr><th>Badge</th><th>Certification</th><th>Exam</th><th>Exam title</th><th>Earned</th></tr>
-  <tr><td align="center"><img src="images/badges/github-agentic-ai-developer.svg" width="56" alt="GitHub Certified: Agentic AI Developer"></td><td><a href="https://learn.microsoft.com/credentials/certifications/agentic-ai-developer/">GitHub Certified: Agentic AI Developer</a></td><td><code>GH-600</code></td><td>Developing in Agentic AI Systems</td><td>2026-08-07</td></tr>
-  <tr><td align="center"><img src="images/badges/github-actions.svg" width="56" alt="GitHub Actions"></td><td><a href="https://learn.microsoft.com/credentials/certifications/github-actions/">GitHub Actions</a></td><td><code>GH-200</code></td><td>GitHub Actions</td><td>2026-02-26</td></tr>
-  <tr><td align="center"><img src="images/badges/github-advanced-security.svg" width="56" alt="GitHub Advanced Security"></td><td><a href="https://learn.microsoft.com/credentials/certifications/github-advanced-security/">GitHub Advanced Security</a></td><td><code>GH-500</code></td><td>GitHub Advanced Security</td><td>2026-02-17</td></tr>
-  <tr><td align="center"><img src="images/badges/github-copilot.svg" width="56" alt="GitHub Copilot"></td><td><a href="https://learn.microsoft.com/credentials/certifications/github-copilot/">GitHub Copilot</a></td><td><code>GH-300</code></td><td>GitHub Copilot</td><td>2026</td></tr>
-  <tr><td align="center"><img src="images/badges/github-administration.svg" width="56" alt="GitHub Administration"></td><td><a href="https://learn.microsoft.com/credentials/certifications/github-administration/">GitHub Administration</a></td><td><code>GH-100</code></td><td>GitHub Administration</td><td>2026</td></tr>
-  <tr><td align="center"><img src="images/badges/github-foundations.svg" width="56" alt="GitHub Foundations"></td><td><a href="https://learn.microsoft.com/credentials/certifications/github-foundations/">GitHub Foundations</a></td><td><code>GH-900</code></td><td>GitHub Foundations</td><td>2026</td></tr>
+  <tr><td align="center"><img src="images/badges/github-agentic-ai-developer.svg" width="56" alt="GitHub Certified: Agentic AI Developer"></td><td><a href="https://learn.microsoft.com/credentials/certifications/agentic-ai-developer/">GitHub Certified: Agentic AI Developer</a></td><td><code>GH-600</code></td><td>Developing in Agentic AI Systems</td><td>2026</td></tr>
+  <tr><td align="center"><img src="images/badges/github-actions.svg" width="56" alt="GitHub Actions"></td><td><a href="https://learn.microsoft.com/credentials/certifications/github-actions/">GitHub Actions</a></td><td><code>GH-200</code></td><td>GitHub Actions</td><td>2023</td></tr>
+  <tr><td align="center"><img src="images/badges/github-advanced-security.svg" width="56" alt="GitHub Advanced Security"></td><td><a href="https://learn.microsoft.com/credentials/certifications/github-advanced-security/">GitHub Advanced Security</a></td><td><code>GH-500</code></td><td>GitHub Advanced Security</td><td>2023</td></tr>
+  <tr><td align="center"><img src="images/badges/github-copilot.svg" width="56" alt="GitHub Copilot"></td><td><a href="https://learn.microsoft.com/credentials/certifications/github-copilot/">GitHub Copilot</a></td><td><code>GH-300</code></td><td>GitHub Copilot</td><td>2024</td></tr>
+  <tr><td align="center"><img src="images/badges/github-administration.svg" width="56" alt="GitHub Administration"></td><td><a href="https://learn.microsoft.com/credentials/certifications/github-administration/">GitHub Administration</a></td><td><code>GH-100</code></td><td>GitHub Administration</td><td>2023</td></tr>
+  <tr><td align="center"><img src="images/badges/github-foundations.svg" width="56" alt="GitHub Foundations"></td><td><a href="https://learn.microsoft.com/credentials/certifications/github-foundations/">GitHub Foundations</a></td><td><code>GH-900</code></td><td>GitHub Foundations</td><td>2023</td></tr>
 </table>
 
 ### Microsoft
@@ -70,7 +70,7 @@ I provide GitHub-based development experience programs and training for educatio
 ### Agile
 <table>
   <tr><th>Badge</th><th>Certification</th><th>Exam</th><th>Exam title</th><th>Earned</th></tr>
-  <tr><td align="center"><img src="images/badges/csm.png" width="56" alt="Certified ScrumMaster® (CSM)"></td><td><a href="https://www.scrumalliance.org/get-certified/scrum-master-track/certified-scrummaster">Certified ScrumMaster® (CSM)</a></td><td><code>—</code></td><td>Scrum Alliance</td><td>2026</td></tr>
+  <tr><td align="center"><img src="images/badges/csm.png" width="56" alt="Certified ScrumMaster® (CSM)"></td><td><a href="https://www.scrumalliance.org/get-certified/scrum-master-track/certified-scrummaster">Certified ScrumMaster® (CSM)</a></td><td><code>—</code></td><td>Scrum Alliance</td><td>2022</td></tr>
 </table>
 
-<sub>Microsoft badges show the certification level (Expert / Associate / Specialty). Verify my Microsoft credentials on <a href="https://learn.microsoft.com/ja-jp/users/56324592/transcript/d90jh1r050q2l3d">Microsoft Learn</a>.</sub>
+<sub>Microsoft dates are exam pass dates and may differ from certification award dates. Badges show the certification level (Expert / Associate / Specialty). Verify my Microsoft credentials on <a href="https://learn.microsoft.com/ja-jp/users/56324592/transcript/d90jh1r050q2l3d">Microsoft Learn</a>.</sub>

@@ -36,18 +36,18 @@ GitHub 認定 **6** · Microsoft Expert **4** · Microsoft Associate **12** · M
 
 ### GitHub
 <table>
-  <tr><th>バッジ</th><th>資格名</th><th>試験番号</th><th>試験名</th><th>取得年</th></tr>
-  <tr><td align="center"><img src="images/badges/github-agentic-ai-developer.svg" width="56" alt="GitHub Certified: Agentic AI Developer"></td><td><a href="https://learn.microsoft.com/credentials/certifications/agentic-ai-developer/">GitHub Certified: Agentic AI Developer</a></td><td><code>GH-600</code></td><td>Developing in Agentic AI Systems</td><td>2026-08-07</td></tr>
-  <tr><td align="center"><img src="images/badges/github-actions.svg" width="56" alt="GitHub Actions"></td><td><a href="https://learn.microsoft.com/credentials/certifications/github-actions/">GitHub Actions</a></td><td><code>GH-200</code></td><td>GitHub Actions</td><td>2026-02-26</td></tr>
-  <tr><td align="center"><img src="images/badges/github-advanced-security.svg" width="56" alt="GitHub Advanced Security"></td><td><a href="https://learn.microsoft.com/credentials/certifications/github-advanced-security/">GitHub Advanced Security</a></td><td><code>GH-500</code></td><td>GitHub Advanced Security</td><td>2026-02-17</td></tr>
-  <tr><td align="center"><img src="images/badges/github-copilot.svg" width="56" alt="GitHub Copilot"></td><td><a href="https://learn.microsoft.com/credentials/certifications/github-copilot/">GitHub Copilot</a></td><td><code>GH-300</code></td><td>GitHub Copilot</td><td>2026年</td></tr>
-  <tr><td align="center"><img src="images/badges/github-administration.svg" width="56" alt="GitHub Administration"></td><td><a href="https://learn.microsoft.com/credentials/certifications/github-administration/">GitHub Administration</a></td><td><code>GH-100</code></td><td>GitHub Administration</td><td>2026年</td></tr>
-  <tr><td align="center"><img src="images/badges/github-foundations.svg" width="56" alt="GitHub Foundations"></td><td><a href="https://learn.microsoft.com/credentials/certifications/github-foundations/">GitHub Foundations</a></td><td><code>GH-900</code></td><td>GitHub Foundations</td><td>2026年</td></tr>
+  <tr><th>バッジ</th><th>資格名</th><th>試験番号</th><th>試験名</th><th>取得日</th></tr>
+  <tr><td align="center"><img src="images/badges/github-agentic-ai-developer.svg" width="56" alt="GitHub Certified: Agentic AI Developer"></td><td><a href="https://learn.microsoft.com/credentials/certifications/agentic-ai-developer/">GitHub Certified: Agentic AI Developer</a></td><td><code>GH-600</code></td><td>Developing in Agentic AI Systems</td><td>2026年</td></tr>
+  <tr><td align="center"><img src="images/badges/github-actions.svg" width="56" alt="GitHub Actions"></td><td><a href="https://learn.microsoft.com/credentials/certifications/github-actions/">GitHub Actions</a></td><td><code>GH-200</code></td><td>GitHub Actions</td><td>2023年</td></tr>
+  <tr><td align="center"><img src="images/badges/github-advanced-security.svg" width="56" alt="GitHub Advanced Security"></td><td><a href="https://learn.microsoft.com/credentials/certifications/github-advanced-security/">GitHub Advanced Security</a></td><td><code>GH-500</code></td><td>GitHub Advanced Security</td><td>2023年</td></tr>
+  <tr><td align="center"><img src="images/badges/github-copilot.svg" width="56" alt="GitHub Copilot"></td><td><a href="https://learn.microsoft.com/credentials/certifications/github-copilot/">GitHub Copilot</a></td><td><code>GH-300</code></td><td>GitHub Copilot</td><td>2024年</td></tr>
+  <tr><td align="center"><img src="images/badges/github-administration.svg" width="56" alt="GitHub Administration"></td><td><a href="https://learn.microsoft.com/credentials/certifications/github-administration/">GitHub Administration</a></td><td><code>GH-100</code></td><td>GitHub Administration</td><td>2023年</td></tr>
+  <tr><td align="center"><img src="images/badges/github-foundations.svg" width="56" alt="GitHub Foundations"></td><td><a href="https://learn.microsoft.com/credentials/certifications/github-foundations/">GitHub Foundations</a></td><td><code>GH-900</code></td><td>GitHub Foundations</td><td>2023年</td></tr>
 </table>
 
 ### Microsoft
 <table>
-  <tr><th>バッジ</th><th>資格名</th><th>試験番号</th><th>試験名</th><th>取得年</th></tr>
+  <tr><th>バッジ</th><th>資格名</th><th>試験番号</th><th>試験名</th><th>取得日</th></tr>
   <tr><td align="center"><img src="images/badges/microsoft-certified-expert-badge.svg" width="56" alt="Microsoft 365 Certified: Administrator Expert"></td><td><a href="https://learn.microsoft.com/credentials/certifications/m365-enterprise-administrator/">Microsoft 365 Certified: Administrator Expert</a></td><td><code>MS-102</code></td><td>Microsoft 365 Administrator</td><td>2026-02-08</td></tr>
   <tr><td align="center"><img src="images/badges/microsoft-certified-expert-badge.svg" width="56" alt="Microsoft Certified: DevOps Engineer Expert"></td><td><a href="https://learn.microsoft.com/credentials/certifications/devops-engineer/">Microsoft Certified: DevOps Engineer Expert</a></td><td><code>AZ-400</code></td><td>Designing and Implementing Microsoft DevOps Solutions</td><td>2025-01-13</td></tr>
   <tr><td align="center"><img src="images/badges/microsoft-certified-expert-badge.svg" width="56" alt="Microsoft Certified: Cybersecurity Architect Expert"></td><td><a href="https://learn.microsoft.com/credentials/certifications/cybersecurity-architect-expert/">Microsoft Certified: Cybersecurity Architect Expert</a></td><td><code>SC-100</code></td><td>Microsoft Cybersecurity Architect</td><td>2024-02-27</td></tr>
@@ -69,8 +69,8 @@ GitHub 認定 **6** · Microsoft Expert **4** · Microsoft Associate **12** · M
 
 ### アジャイル
 <table>
-  <tr><th>バッジ</th><th>資格名</th><th>試験番号</th><th>試験名</th><th>取得年</th></tr>
-  <tr><td align="center"><img src="images/badges/csm.png" width="56" alt="Certified ScrumMaster® (CSM)"></td><td><a href="https://www.scrumalliance.org/get-certified/scrum-master-track/certified-scrummaster">Certified ScrumMaster® (CSM)</a></td><td><code>—</code></td><td>Scrum Alliance</td><td>2026年</td></tr>
+  <tr><th>バッジ</th><th>資格名</th><th>試験番号</th><th>試験名</th><th>取得日</th></tr>
+  <tr><td align="center"><img src="images/badges/csm.png" width="56" alt="Certified ScrumMaster® (CSM)"></td><td><a href="https://www.scrumalliance.org/get-certified/scrum-master-track/certified-scrummaster">Certified ScrumMaster® (CSM)</a></td><td><code>—</code></td><td>Scrum Alliance</td><td>2022年</td></tr>
 </table>
 
-<sub>Microsoft のバッジは資格レベル（Expert／Associate／Specialty）を表します。資格の真正性は <a href="https://learn.microsoft.com/ja-jp/users/56324592/transcript/d90jh1r050q2l3d">Microsoft Learn のトランスクリプト</a>で確認できます。</sub>
+<sub>Microsoft の日付は試験合格日であり、資格の取得日とは異なる場合があります。バッジは資格レベル（Expert／Associate／Specialty）を表します。資格の真正性は <a href="https://learn.microsoft.com/ja-jp/users/56324592/transcript/d90jh1r050q2l3d">Microsoft Learn のトランスクリプト</a>で確認できます。</sub>
