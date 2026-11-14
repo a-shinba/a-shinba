@@ -1,40 +1,76 @@
-## Hi there, I'm a-shinba from Japan!! 👋
+<p align="right">🇯🇵 <a href="README.ja.md">日本語はこちら</a></p>
+
+## Hi there, I'm Shinba (a-shinba) from Fukuoka, Japan! 👋
 ### Call me Aki or Shinba ☺️
 
-🌟 **Areas of Expertise**  
-　🔥 GitHub  
-　🔥 Microsoft Azure  
-　🔥 DevOps  
-　🔥 Developer Productivity  
+GitHub geek helping developers and organizations get the most out of GitHub, GitHub Copilot, and Microsoft Azure.
 
-🎓 **Official GitHub Accreditations and Certifications +α**  
-　- GitHub-accredited in Copilot and Admin  
-　- Certified in GitHub Foundations, Actions, Admin, Advanced Security, and Copilot  
-　- Scrum Master (Certified)
+🌟 **Areas of Expertise**
+- 🔥 GitHub & GitHub Copilot / Agentic AI
+- 🔥 DevOps & GitHub Actions
+- 🔥 Application Security (GitHub Advanced Security, Microsoft Security)
+- 🔥 Microsoft Azure / Microsoft 365
+- 🔥 Developer Productivity
 
-**Events**  
-　🚀 Organizer of **Alternative Architecture Dojo**, `#AADOJO`  
-　🚀 Organizer of **GitHub Dockyard**, `#GitHubDockyard`
+🚀 **Community & Writing (Past and Present)**
+- Organized **Alternative Architecture Dojo** `#AADOJO`
+- Organized **GitHub Dockyard** `#GitHubDockyard`
+- Former editor of the tech blog [AADOJO](https://aadojo.alterbooth.com/)
+- Contributions to the [GitHub Japan Blog](https://github.blog/jp/)
+- Articles on [Zenn](https://zenn.dev/shinbaz)
 
-🖊 **Editorial Work**  
-　✍️ Lead editor for the tech blog: [AADOJO](https://aadojo.alterbooth.com/)
+🎓 **Education**
+I provide GitHub-based development experience programs and training for educational institutions and students. Feel free to reach out!
 
-🌐 **Social Media**  
-　🐦 X (Twitter): [a-shinba](https://x.com/shinbaz)  
-　🔗 LinkedIn: [Check!](https://www.linkedin.com/in/akitaka-shinba-b627aa52/)
+🌐 **Links**
+- X: [@shinbaz](https://x.com/shinbaz)
+- LinkedIn: [Akitaka Shinba](https://www.linkedin.com/in/akitaka-shinba-b627aa52/)
 
-💬 **Feel free to ask me anything about using GitHub and GitHub Copilot!** 🚀💻✨
+💬 **Feel free to ask me anything about GitHub and GitHub Copilot!** 🚀
 
-I also provide GitHub development experience programs and training for educational institutions and students. Feel free to reach out!  
-教育機関、学生向けのGitHubを使った開発体験プログラムや、トレーニングについても提供しています。お気軽にお声がけください！
+---
 
----  
+## 🏅 Certifications
 
-![AZ-305](images2/AZ-305.png)
-![SC-100](images2/SC-100.png)
-![CSM](images2/CSM.png)  
-![github-actions](images2/github-actions.png)
-![github-administration](images2/github-administration.png)
-![github-advanced-security](images2/github-advanced-security.png)
-![github-copilot](images2/github-copilot.png)
-![github-foundations](images2/github-foundations.png)
+**6** GitHub certifications · **4** Microsoft Expert · **12** Microsoft Associate · **1** Microsoft Specialty · Certified ScrumMaster®
+
+### GitHub
+<table>
+  <tr><th>Badge</th><th>Certification</th><th>Exam</th><th>Exam title</th><th>Earned</th></tr>
+  <tr><td align="center"><img src="images/badges/github-agentic-ai-developer.svg" width="56" alt="GitHub Certified: Agentic AI Developer"></td><td><a href="https://learn.microsoft.com/credentials/certifications/agentic-ai-developer/">GitHub Certified: Agentic AI Developer</a></td><td><code>GH-600</code></td><td>Developing in Agentic AI Systems</td><td>2026-08-07</td></tr>
+  <tr><td align="center"><img src="images/badges/github-actions.svg" width="56" alt="GitHub Actions"></td><td><a href="https://learn.microsoft.com/credentials/certifications/github-actions/">GitHub Actions</a></td><td><code>GH-200</code></td><td>GitHub Actions</td><td>2026-02-26</td></tr>
+  <tr><td align="center"><img src="images/badges/github-advanced-security.svg" width="56" alt="GitHub Advanced Security"></td><td><a href="https://learn.microsoft.com/credentials/certifications/github-advanced-security/">GitHub Advanced Security</a></td><td><code>GH-500</code></td><td>GitHub Advanced Security</td><td>2026-02-17</td></tr>
+  <tr><td align="center"><img src="images/badges/github-copilot.svg" width="56" alt="GitHub Copilot"></td><td><a href="https://learn.microsoft.com/credentials/certifications/github-copilot/">GitHub Copilot</a></td><td><code>GH-300</code></td><td>GitHub Copilot</td><td>2026</td></tr>
+  <tr><td align="center"><img src="images/badges/github-administration.svg" width="56" alt="GitHub Administration"></td><td><a href="https://learn.microsoft.com/credentials/certifications/github-administration/">GitHub Administration</a></td><td><code>GH-100</code></td><td>GitHub Administration</td><td>2026</td></tr>
+  <tr><td align="center"><img src="images/badges/github-foundations.svg" width="56" alt="GitHub Foundations"></td><td><a href="https://learn.microsoft.com/credentials/certifications/github-foundations/">GitHub Foundations</a></td><td><code>GH-900</code></td><td>GitHub Foundations</td><td>2026</td></tr>
+</table>
+
+### Microsoft
+<table>
+  <tr><th>Badge</th><th>Certification</th><th>Exam</th><th>Exam title</th><th>Earned</th></tr>
+  <tr><td align="center"><img src="images/badges/microsoft-certified-expert-badge.svg" width="56" alt="Microsoft 365 Certified: Administrator Expert"></td><td><a href="https://learn.microsoft.com/credentials/certifications/m365-enterprise-administrator/">Microsoft 365 Certified: Administrator Expert</a></td><td><code>MS-102</code></td><td>Microsoft 365 Administrator</td><td>2026-02-08</td></tr>
+  <tr><td align="center"><img src="images/badges/microsoft-certified-expert-badge.svg" width="56" alt="Microsoft Certified: DevOps Engineer Expert"></td><td><a href="https://learn.microsoft.com/credentials/certifications/devops-engineer/">Microsoft Certified: DevOps Engineer Expert</a></td><td><code>AZ-400</code></td><td>Designing and Implementing Microsoft DevOps Solutions</td><td>2025-01-13</td></tr>
+  <tr><td align="center"><img src="images/badges/microsoft-certified-expert-badge.svg" width="56" alt="Microsoft Certified: Cybersecurity Architect Expert"></td><td><a href="https://learn.microsoft.com/credentials/certifications/cybersecurity-architect-expert/">Microsoft Certified: Cybersecurity Architect Expert</a></td><td><code>SC-100</code></td><td>Microsoft Cybersecurity Architect</td><td>2024-02-27</td></tr>
+  <tr><td align="center"><img src="images/badges/microsoft-certified-expert-badge.svg" width="56" alt="Microsoft Certified: Azure Solutions Architect Expert"></td><td><a href="https://learn.microsoft.com/credentials/certifications/azure-solutions-architect/">Microsoft Certified: Azure Solutions Architect Expert</a></td><td><code>AZ-305</code></td><td>Designing Microsoft Azure Infrastructure Solutions</td><td>2023-02-24</td></tr>
+  <tr><td align="center"><img src="images/badges/microsoft-certified-associate-badge.svg" width="56" alt="Microsoft Certified: Fabric Analytics Engineer Associate"></td><td><a href="https://learn.microsoft.com/credentials/certifications/fabric-analytics-engineer-associate/">Microsoft Certified: Fabric Analytics Engineer Associate</a></td><td><code>DP-600</code></td><td>Implementing Analytics Solutions Using Microsoft Fabric</td><td>2026-04-22</td></tr>
+  <tr><td align="center"><img src="images/badges/microsoft-certified-associate-badge.svg" width="56" alt="Microsoft Certified: Information Security Administrator Associate"></td><td><a href="https://learn.microsoft.com/credentials/certifications/information-security-administrator/">Microsoft Certified: Information Security Administrator Associate</a></td><td><code>SC-401</code></td><td>Administering Information Security in Microsoft 365</td><td>2025-08-03</td></tr>
+  <tr><td align="center"><img src="images/badges/microsoft-certified-associate-badge.svg" width="56" alt="Microsoft Certified: Azure Network Engineer Associate"></td><td><a href="https://learn.microsoft.com/credentials/certifications/azure-network-engineer-associate/">Microsoft Certified: Azure Network Engineer Associate</a></td><td><code>AZ-700</code></td><td>Designing and Implementing Microsoft Azure Networking Solutions</td><td>2025-07-11</td></tr>
+  <tr><td align="center"><img src="images/badges/microsoft-certified-associate-badge.svg" width="56" alt="Microsoft Certified: Azure Cosmos DB AI Developer Associate"></td><td><a href="https://learn.microsoft.com/credentials/certifications/azure-cosmos-db-developer-specialty/">Microsoft Certified: Azure Cosmos DB AI Developer Associate</a></td><td><code>DP-420</code></td><td>Designing and Implementing Cloud-Native Applications Using Microsoft Azure Cosmos DB</td><td>2025-04-14</td></tr>
+  <tr><td align="center"><img src="images/badges/microsoft-certified-associate-badge.svg" width="56" alt="Microsoft Certified: Azure Data Engineer Associate"></td><td><a href="https://learn.microsoft.com/credentials/certifications/azure-data-engineer/">Microsoft Certified: Azure Data Engineer Associate</a></td><td><code>DP-203</code></td><td>Data Engineering on Microsoft Azure</td><td>2025-04-06</td></tr>
+  <tr><td align="center"><img src="images/badges/microsoft-certified-associate-badge.svg" width="56" alt="Microsoft Certified: Azure Data Scientist Associate"></td><td><a href="https://learn.microsoft.com/credentials/certifications/azure-data-scientist/">Microsoft Certified: Azure Data Scientist Associate</a></td><td><code>DP-100</code></td><td>Designing and Implementing a Data Science Solution on Azure</td><td>2025-02-15</td></tr>
+  <tr><td align="center"><img src="images/badges/microsoft-certified-associate-badge.svg" width="56" alt="Microsoft Certified: Azure Developer Associate"></td><td><a href="https://learn.microsoft.com/credentials/certifications/azure-developer/">Microsoft Certified: Azure Developer Associate</a></td><td><code>AZ-204</code></td><td>Developing Solutions for Microsoft Azure</td><td>2025-01-07</td></tr>
+  <tr><td align="center"><img src="images/badges/microsoft-certified-specialty-badge.svg" width="56" alt="Microsoft Certified: Azure Virtual Desktop Specialty"></td><td><a href="https://learn.microsoft.com/credentials/certifications/azure-virtual-desktop-specialty/">Microsoft Certified: Azure Virtual Desktop Specialty</a></td><td><code>AZ-140</code></td><td>Configuring and Operating Microsoft Azure Virtual Desktop</td><td>2024-06-15</td></tr>
+  <tr><td align="center"><img src="images/badges/microsoft-certified-associate-badge.svg" width="56" alt="Microsoft Certified: Azure AI Engineer Associate"></td><td><a href="https://learn.microsoft.com/credentials/certifications/azure-ai-engineer/">Microsoft Certified: Azure AI Engineer Associate</a></td><td><code>AI-102</code></td><td>Designing and Implementing a Microsoft Azure AI Solution</td><td>2024-05-14</td></tr>
+  <tr><td align="center"><img src="images/badges/microsoft-certified-associate-badge.svg" width="56" alt="Microsoft Certified: Security Operations Analyst Associate"></td><td><a href="https://learn.microsoft.com/credentials/certifications/security-operations-analyst/">Microsoft Certified: Security Operations Analyst Associate</a></td><td><code>SC-200</code></td><td>Microsoft Security Operations Analyst</td><td>2024-04-22</td></tr>
+  <tr><td align="center"><img src="images/badges/microsoft-certified-associate-badge.svg" width="56" alt="Microsoft Certified: Identity and Access Administrator Associate"></td><td><a href="https://learn.microsoft.com/credentials/certifications/identity-and-access-administrator/">Microsoft Certified: Identity and Access Administrator Associate</a></td><td><code>SC-300</code></td><td>Microsoft Identity and Access Administrator</td><td>2024-02-05</td></tr>
+  <tr><td align="center"><img src="images/badges/microsoft-certified-associate-badge.svg" width="56" alt="Microsoft Certified: Azure Security Engineer Associate"></td><td><a href="https://learn.microsoft.com/credentials/certifications/azure-security-engineer/">Microsoft Certified: Azure Security Engineer Associate</a></td><td><code>AZ-500</code></td><td>Microsoft Azure Security Technologies</td><td>2024-01-08</td></tr>
+  <tr><td align="center"><img src="images/badges/microsoft-certified-associate-badge.svg" width="56" alt="Microsoft Certified: Azure Administrator Associate"></td><td><a href="https://learn.microsoft.com/credentials/certifications/azure-administrator/">Microsoft Certified: Azure Administrator Associate</a></td><td><code>AZ-104</code></td><td>Microsoft Azure Administrator</td><td>2023-02-05</td></tr>
+</table>
+
+### Agile
+<table>
+  <tr><th>Badge</th><th>Certification</th><th>Exam</th><th>Exam title</th><th>Earned</th></tr>
+  <tr><td align="center"><img src="images/badges/csm.png" width="56" alt="Certified ScrumMaster® (CSM)"></td><td><a href="https://www.scrumalliance.org/get-certified/scrum-master-track/certified-scrummaster">Certified ScrumMaster® (CSM)</a></td><td><code>—</code></td><td>Scrum Alliance</td><td>2026</td></tr>
+</table>
+
+<sub>Microsoft badges show the certification level (Expert / Associate / Specialty). Verify my Microsoft credentials on <a href="https://learn.microsoft.com/ja-jp/users/56324592/transcript/d90jh1r050q2l3d">Microsoft Learn</a>.</sub>
